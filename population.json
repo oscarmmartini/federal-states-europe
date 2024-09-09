@@ -1,0 +1,700 @@
+{
+  "Albania": {
+    "population": 2837743,
+    "states": {
+      "Berat": 126718,
+      "Dibër": 119839,
+      "Durrës": 289628,
+      "Elbasan": 276586,
+      "Fier": 302434,
+      "Gjirokastër": 60032,
+      "Korçë": 214432,
+      "Kukës": 77025,
+      "Lezhë": 134027,
+      "Shkodër": 215481,
+      "Tirana": 895160,
+      "Vlorë": 189282
+    }
+  },
+  "Andorra": {
+    "population": 77265,
+    "states": {
+      "Andorra la Vella": 22317,
+      "Canillo": 4780,
+      "Encamp": 11662,
+      "Escaldes-Engordany": 14917,
+      "La Massana": 10867,
+      "Ordino": 5003,
+      "Sant Julià de Lòria": 9371
+    }
+  },
+  "Austria": {
+    "population": 8917205,
+    "states": {
+      "Burgenland": 294436,
+      "Kärnten": 561293,
+      "Niederösterreich": 1684287,
+      "Oberösterreich": 1490279,
+      "Salzburg": 558410,
+      "Steiermark": 1243052,
+      "Tirol": 757852,
+      "Vorarlberg": 397094,
+      "Wien": 1911191
+    }
+  },
+  "Belarus": {
+    "population": 9379952,
+    "states": {
+      "Brest Region": 1347000,
+      "Gomel Region": 1388000,
+      "Grodno Region": 1025000,
+      "Minsk": 1992000,
+      "Minsk Region": 1428000,
+      "Mogilev Region": 1024000,
+      "Vitebsk Region": 1171000
+    }
+  },
+  "Belgium": {
+    "population": 11589623,
+    "states": {
+      "Brussels-Capital Region": 1218255,
+      "Flanders": 6653062,
+      "Wallonia": 3645243
+    }
+  },
+  "Bosnia and Herzegovina": {
+    "population": 3280819,
+    "states": {
+      "Federation of Bosnia and Herzegovina": 2219220,
+      "Republika Srpska": 1228423,
+      "Brčko District": 83516
+    }
+  },
+  "Bulgaria": {
+    "population": 6927288,
+    "states": {
+      "Blagoevgrad": 305123,
+      "Burgas": 411579,
+      "Dobrich": 171809,
+      "Gabrovo": 109729,
+      "Haskovo": 228141,
+      "Kardzhali": 158204,
+      "Kyustendil": 119041,
+      "Lovech": 122546,
+      "Montana": 129637,
+      "Pazardzhik": 255479,
+      "Pernik": 120426,
+      "Pleven": 240380,
+      "Plovdiv": 666801,
+      "Razgrad": 112229,
+      "Ruse": 218556,
+      "Shumen": 172262,
+      "Silistra": 109271,
+      "Sliven": 186495,
+      "Smolyan": 103532,
+      "Sofia (capital)": 1308412,
+      "Sofia": 226671,
+      "Stara Zagora": 316356,
+      "Targovishte": 111597,
+      "Varna": 472654,
+      "Veliko Tarnovo": 232568,
+      "Vidin": 84865,
+      "Vratsa": 160645,
+      "Yambol": 118897
+    }
+  },
+  "Croatia": {
+    "population": 4047000,
+    "states": {
+      "Zagreb": 807254,
+      "Split-Dalmatia": 447747,
+      "Osijek-Baranja": 269896,
+      "Primorje-Gorski Kotar": 281075,
+      "Istria": 208229,
+      "Zagreb County": 311681,
+      "Varaždin": 166112,
+      "Vukovar-Syrmia": 159213,
+      "Zadar": 168672,
+      "Sisak-Moslavina": 145842,
+      "Karlovac": 112596,
+      "Brod-Posavina": 137487,
+      "Dubrovnik-Neretva": 121381,
+      "Krapina-Zagorje": 124517,
+      "Bjelovar-Bilogora": 102295,
+      "Šibenik-Knin": 99210,
+      "Koprivnica-Križevci": 106367,
+      "Međimurje": 109232,
+      "Požega-Slavonia": 66256,
+      "Virovitica-Podravina": 73641,
+      "Lika-Senj": 44625
+    }
+  },
+  "Czech Republic": {
+    "population": 10708981,
+    "states": {
+      "Prague": 1324277,
+      "Central Bohemian Region": 1385141,
+      "South Bohemian Region": 644083,
+      "Plzeň Region": 589899,
+      "Karlovy Vary Region": 294896,
+      "Ústí nad Labem Region": 820965,
+      "Liberec Region": 442476,
+      "Hradec Králové Region": 551647,
+      "Pardubice Region": 522662,
+      "Olomouc Region": 631839,
+      "Moravian-Silesian Region": 1192834,
+      "South Moravian Region": 1195327,
+      "Zlín Region": 582921,
+      "Vysočina Region": 509274
+    }
+  },
+  "Denmark": {
+    "population": 5792202,
+    "states": {
+      "Capital Region of Denmark": 1846023,
+      "Central Denmark Region": 1326340,
+      "North Denmark Region": 589936,
+      "Region Zealand": 837359,
+      "Region of Southern Denmark": 1223348
+    }
+  },
+  "Estonia": {
+    "population": 1326535,
+    "states": {
+      "Harju County": 598059,
+      "Hiiu County": 9387,
+      "Ida-Viru County": 136240,
+      "Jõgeva County": 28734,
+      "Järva County": 30286,
+      "Lääne County": 20507,
+      "Lääne-Viru County": 59325,
+      "Põlva County": 25006,
+      "Pärnu County": 85938,
+      "Rapla County": 33311,
+      "Saare County": 33108,
+      "Tartu County": 152977,
+      "Valga County": 28370,
+      "Viljandi County": 46371,
+      "Võru County": 35782
+    }
+  },
+  "Finland": {
+    "population": 5540720,
+    "states": {
+      "Uusimaa": 1695887,
+      "Southwest Finland": 479341,
+      "Satakunta": 216752,
+      "Kanta-Häme": 170925,
+      "Pirkanmaa": 517666,
+      "Päijät-Häme": 199604,
+      "Kymenlaakso": 162812,
+      "South Karelia": 127757,
+      "South Savo": 132702,
+      "North Savo": 244236,
+      "North Karelia": 161211,
+      "Central Finland": 275521,
+      "South Ostrobothnia": 192150,
+      "Ostrobothnia": 175816,
+      "Central Ostrobothnia": 67988,
+      "North Ostrobothnia": 413830,
+      "Kainuu": 72306,
+      "Lapland": 176665,
+      "Åland Islands": 30129
+    }
+  },
+  "France": {
+    "population": 67391582,
+    "states": {
+      "Auvergne-Rhône-Alpes": 8042936,
+      "Bourgogne-Franche-Comté": 2785393,
+      "Bretagne": 3340379,
+      "Centre-Val de Loire": 2559073,
+      "Corse": 338554,
+      "Grand Est": 5511747,
+      "Hauts-de-France": 5962662,
+      "Île-de-France": 12278210,
+      "Normandie": 3303500,
+      "Nouvelle-Aquitaine": 5999982,
+      "Occitanie": 5924858,
+      "Pays de la Loire": 3801797,
+      "Provence-Alpes-Côte d'Azur": 5055651
+    }
+  },
+  "Germany": {
+    "population": 83166711,
+    "states": {
+      "Baden-Württemberg": 11100394,
+      "Bayern": 13124737,
+      "Berlin": 3669491,
+      "Brandenburg": 2521893,
+      "Bremen": 680130,
+      "Hamburg": 1847253,
+      "Hessen": 6288080,
+      "Mecklenburg-Vorpommern": 1608138,
+      "Niedersachsen": 7993608,
+      "Nordrhein-Westfalen": 17932651,
+      "Rheinland-Pfalz": 4093903,
+      "Saarland": 986887,
+      "Sachsen": 4071971,
+      "Sachsen-Anhalt": 2194782,
+      "Schleswig-Holstein": 2903773,
+      "Thüringen": 2120237
+    }
+  },
+  "Greece": {
+    "population": 10423054,
+    "states": {
+      "Attica": 3828434,
+      "Central Macedonia": 1882108,
+      "Thessaly": 732762,
+      "Western Greece": 679796,
+      "Crete": 636504,
+      "Central Greece": 547390,
+      "Peloponnese": 577903,
+      "Eastern Macedonia and Thrace": 608182,
+      "Epirus": 336856,
+      "Western Macedonia": 283689,
+      "North Aegean": 199231,
+      "South Aegean": 309015,
+      "Ionian Islands": 207855
+    }
+  },
+  "Hungary": {
+    "population": 9660351,
+    "states": {
+      "Budapest": 1752286,
+      "Pest": 1278874,
+      "Borsod-Abaúj-Zemplén": 642447,
+      "Szabolcs-Szatmár-Bereg": 552964,
+      "Hajdú-Bihar": 527989,
+      "Bács-Kiskun": 503825,
+      "Győr-Moson-Sopron": 467144,
+      "Fejér": 417712,
+      "Csongrád-Csanád": 399012,
+      "Baranya": 360704,
+      "Jász-Nagykun-Szolnok": 370007,
+      "Heves": 294609,
+      "Somogy": 301429,
+      "Vas": 253551,
+      "Békés": 334264,
+      "Veszprém": 341317,
+      "Zala": 265372,
+      "Komárom-Esztergom": 299110,
+      "Tolna": 219095,
+      "Nógrád": 189304
+    }
+  },
+  "Iceland": {
+    "population": 364134,
+    "states": {
+      "Capital Region": 233034,
+      "Southern Peninsula": 27847,
+      "Western Region": 16519,
+      "Westfjords": 7115,
+      "Northwestern Region": 7322,
+      "Northeastern Region": 30087,
+      "Eastern Region": 13134,
+      "Southern Region": 29076
+    }
+  },
+  "Ireland": {
+    "population": 4937786,
+    "states": {
+      "Leinster": 2630720,
+      "Munster": 1280394,
+      "Connacht": 550742,
+      "Ulster (part)": 294803
+    }
+  },
+  "Italy": {
+    "population": 59641488,
+    "states": {
+      "Abruzzo": 1293941,
+      "Basilicata": 553254,
+      "Calabria": 1894110,
+      "Campania": 5712143,
+      "Emilia-Romagna": 4459477,
+      "Friuli-Venezia Giulia": 1206216,
+      "Lazio": 5755700,
+      "Liguria": 1524826,
+      "Lombardia": 10027602,
+      "Marche": 1512672,
+      "Molise": 300516,
+      "Piemonte": 4311217,
+      "Puglia": 3953305,
+      "Sardegna": 1611621,
+      "Sicilia": 4875290,
+      "Toscana": 3692555,
+      "Trentino-Alto Adige": 1078069,
+      "Umbria": 870165,
+      "Valle d'Aosta": 125034,
+      "Veneto": 4879133
+    }
+  },
+  "Latvia": {
+    "population": 1886198,
+    "states": {
+      "Riga": 632614,
+      "Daugavpils": 82604,
+      "Liepāja": 68945,
+      "Jelgava": 56062,
+      "Jūrmala": 49325,
+      "Ventspils": 34377,
+      "Rēzekne": 27820,
+      "Valmiera": 22961,
+      "Jēkabpils": 22304,
+      "Ogre": 23770
+    }
+  },
+  "Liechtenstein": {
+    "population": 38128,
+    "states": {
+      "Balzers": 4641,
+      "Eschen": 4437,
+      "Gamprin": 1698,
+      "Mauren": 4360,
+      "Planken": 475,
+      "Ruggell": 2359,
+      "Schaan": 6039,
+      "Schellenberg": 1087,
+      "Triesen": 5308,
+      "Triesenberg": 2635,
+      "Vaduz": 5696
+    }
+  },
+  "Lithuania": {
+    "population": 2722289,
+    "states": {
+      "Lithuania": {
+    "population": 2722289,
+    "states": {
+      "Vilnius County": 806308,
+      "Kaunas County": 566244,
+      "Klaipėda County": 320963,
+      "Šiauliai County": 270217,
+      "Panevėžys County": 220726,
+      "Alytus County": 135480,
+      "Marijampolė County": 141240,
+      "Telšiai County": 134050,
+      "Utena County": 130252,
+      "Tauragė County": 95167
+    }
+  },
+  "Luxembourg": {
+    "population": 625978,
+    "states": {
+      "Luxembourg District": 366320,
+      "Diekirch District": 168989,
+      "Grevenmacher District": 90669
+    }
+  },
+  "Malta": {
+    "population": 441543,
+    "states": {
+      "Southern Harbor": 82838,
+      "Northern Harbor": 122562,
+      "South Eastern": 95162,
+      "Western": 57768,
+      "Northern": 105181,
+      "Gozo and Comino": 31032
+    }
+  },
+  "Moldova": {
+    "population": 4033963,
+    "states": {
+      "Chișinău": 679100,
+      "Bălți": 150200,
+      "Cahul": 124400,
+      "Ungheni": 117300,
+      "Orhei": 125800,
+      "Comrat": 26200,
+      "Strășeni": 92800,
+      "Căușeni": 90900,
+      "Edineț": 81700,
+      "Soroca": 100100
+    }
+  },
+  "Monaco": {
+    "population": 39242,
+    "states": {
+      "Monaco-Ville": 1064,
+      "Monte Carlo": 15200,
+      "La Condamine": 12167,
+      "Fontvieille": 3900,
+      "Moneghetti": 3023,
+      "Larvotto": 5443,
+      "La Rousse": 3223,
+      "Saint Roman": 3000,
+      "Jardin Exotique": 2730
+    }
+  },
+  "Montenegro": {
+    "population": 628066,
+    "states": {
+      "Podgorica": 185937,
+      "Nikšić": 72443,
+      "Bijelo Polje": 46051,
+      "Bar": 42068,
+      "Herceg Novi": 30864,
+      "Pljevlja": 30786,
+      "Budva": 19218,
+      "Ulcinj": 19921,
+      "Tivat": 14111,
+      "Cetinje": 16657
+    }
+  },
+  "Netherlands": {
+    "population": 17134872,
+    "states": {
+      "North Holland": 2879527,
+      "South Holland": 3708696,
+      "North Brabant": 2562566,
+      "Gelderland": 2096603,
+      "Utrecht": 1354834,
+      "Overijssel": 1162406,
+      "Limburg": 1117546,
+      "Friesland": 649944,
+      "Groningen": 585881,
+      "Drenthe": 493682,
+      "Flevoland": 423021,
+      "Zeeland": 383488
+    }
+  },
+  "North Macedonia": {
+    "population": 2083374,
+    "states": {
+      "Skopje": 578144,
+      "Bitola": 91360,
+      "Kumanovo": 105484,
+      "Prilep": 66246,
+      "Tetovo": 86580,
+      "Veles": 43716,
+      "Štip": 47796,
+      "Ohrid": 42033,
+      "Gostivar": 81042,
+      "Strumica": 54676
+    }
+  },
+  "Norway": {
+    "population": 5421241,
+    "states": {
+      "Oslo": 693494,
+      "Rogaland": 479892,
+      "Møre og Romsdal": 265238,
+      "Nordland": 241235,
+      "Viken": 1241165,
+      "Innlandet": 371385,
+      "Vestfold og Telemark": 419396,
+      "Agder": 307231,
+      "Vestland": 636531,
+      "Trøndelag": 468702,
+      "Troms og Finnmark": 243311
+    }
+  },
+  "Poland": {
+    "population": 37846611,
+    "states": {
+      "Lower Silesian": 2898525,
+      "Kuyavian-Pomeranian": 2069273,
+      "Lublin": 2108270,
+      "Lubusz": 1011592,
+      "Łódź": 2448713,
+      "Lesser Poland": 3410441,
+      "Masovian": 5423168,
+      "Opole": 980771,
+      "Subcarpathian": 2127164,
+      "Podlaskie": 1178353,
+      "Pomeranian": 2343928,
+      "Silesian": 4517635,
+      "Holy Cross": 1233961,
+      "Warmian-Masurian": 1422737,
+      "Greater Poland": 3496450,
+      "West Pomeranian": 1696193
+    }
+  },
+  "Portugal": {
+    "population": 10196709,
+    "states": {
+      "Norte": 3572583,
+      "Centro": 2217285,
+      "Lisbon": 2861719,
+      "Alentejo": 704558,
+      "Algarve": 438864,
+      "Azores": 242796,
+      "Madeira": 254254
+    }
+  },
+  "Romania": {
+    "population": 19237691,
+    "states": {
+      "Bucharest": 2121000,
+      "Cluj": 691106,
+      "Timis": 683540,
+      "Iasi": 772348,
+      "Constanta": 684082,
+      "Prahova": 762886,
+      "Dolj": 660544,
+      "Brasov": 549217,
+      "Galati": 519628,
+      "Arges": 612431
+    }
+  },
+  "Russia": {
+    "population": 145934462,
+    "states": {
+      "Moscow": 12655050,
+      "Saint Petersburg": 5398064,
+      "Novosibirsk Oblast": 2798170,
+      "Yekaterinburg": 1495066,
+      "Nizhny Novgorod": 1252236,
+      "Kazan": 1257391,
+      "Chelyabinsk": 1200703,
+      "Omsk": 1154116,
+      "Samara": 1156659,
+      "Rostov-on-Don": 1137904
+    }
+  },
+  "San Marino": {
+    "population": 33931,
+    "states": {
+      "Acquaviva": 2114,
+      "Borgo Maggiore": 6938,
+      "Chiesanuova": 1090,
+      "Domagnano": 3549,
+      "Faetano": 1180,
+      "Fiorentino": 2510,
+      "Montegiardino": 932,
+      "San Marino": 4044,
+      "Serravalle": 10933
+    }
+  },
+  "Serbia": {
+    "population": 6908224,
+    "states": {
+      "Belgrade": 1687132,
+      "Novi Sad": 341625,
+      "Niš": 260237,
+      "Kragujevac": 179417,
+      "Subotica": 141554,
+      "Zrenjanin": 123362,
+      "Pančevo": 123414,
+      "Čačak": 115337,
+      "Kruševac": 128752,
+      "Kraljevo": 125488
+    }
+  },
+  "Slovakia": {
+    "population": 5459642,
+    "states": {
+      "Bratislava Region": 669592,
+      "Trnava Region": 565324,
+      "Trenčín Region": 584569,
+      "Nitra Region": 674306,
+      "Žilina Region": 691509,
+      "Banská Bystrica Region": 645276,
+      "Prešov Region": 826244,
+      "Košice Region": 802092
+    }
+  },
+  "Slovenia": {
+    "population": 2078938,
+    "states": {
+      "Central Slovenia": 552221,
+      "Podravska": 324104,
+      "Savinjska": 257425,
+      "Gorenjska": 205717,
+      "Jugovzhodna Slovenija": 144688,
+      "Primorsko-notranjska": 52818,
+      "Goriška": 117260,
+      "Obalno-kraška": 115613,
+      "Koroška": 70683,
+      "Posavska": 75807,
+      "Zasavska": 57059,
+      "Pomurska": 114287
+    }
+  },
+  "Spain": {
+    "population": 47351567,
+    "states": {
+      "Andalucía": 8464411,
+      "Aragón": 1329391,
+      "Asturias": 1018784,
+      "Baleares": 1171543,
+      "Canarias": 2175952,
+      "Cantabria": 582905,
+      "Castilla y León": 2394918,
+      "Castilla-La Mancha": 2045221,
+      "Cataluña": 7675217,
+      "Comunidad Valenciana": 5057353,
+      "Extremadura": 1063987,
+      "Galicia": 2701819,
+      "La Rioja": 319914,
+      "Madrid": 6779888,
+      "Murcia": 1511251,
+      "Navarra": 661197,
+      "País Vasco": 2220504,
+      "Ceuta": 84202,
+      "Melilla": 87076
+    }
+  },
+  "Sweden": {
+    "population": 10099265,
+    "states": {
+      "Stockholm": 2377081,
+      "Västra Götaland": 1725881,
+      "Skåne": 1377827,
+      "Östergötland": 465495,
+      "Uppsala": 383713,
+      "Jönköping": 363599,
+      "Halland": 333848,
+      "Örebro": 304805,
+      "Södermanland": 297540,
+      "Dalarna": 287966
+    }
+  },
+  "Switzerland": {
+    "population": 8570146,
+    "states": {
+      "Zürich": 1539275,
+      "Bern": 1039474,
+      "Vaud": 805098,
+      "Aargau": 685845,
+      "St. Gallen": 510734,
+      "Geneva": 499480,
+      "Lucerne": 413120,
+      "Ticino": 351491,
+      "Valais": 345525,
+      "Basel-Landschaft": 289468
+    }
+  },
+  "Ukraine": {
+    "population": 44134693,
+    "states": {
+      "Kyiv": 2967360,
+      "Kharkiv Oblast": 2658461,
+      "Dnipropetrovsk Oblast": 3176648,
+      "Donetsk Oblast": 4131808,
+      "Odessa Oblast": 2377230,
+      "Zaporizhzhia Oblast": 1687401,
+      "Lviv Oblast": 2512084,
+      "Kyiv Oblast": 1781044,
+      "Vinnytsia Oblast": 1545416,
+      "Poltava Oblast": 1386978
+    }
+  },
+  "United Kingdom": {
+    "population": 67886011,
+    "states": {
+      "England": 56550138,
+      "Scotland": 5466000,
+      "Wales": 3152879,
+      "Northern Ireland": 1895510
+    }
+  },
+  "Vatican City": {
+    "population": 825,
+    "states": {
+      "Vatican City": 825
+    }
+  }
+}
