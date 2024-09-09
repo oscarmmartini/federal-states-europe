@@ -695,6 +695,94 @@
     "population": 825,
     "states": {
       "Vatican City": 825
+    },
+    {
+  "Armenia": {
+    "population": 2963234,
+    "states": {
+      "Yerevan": 1084000,
+      "Shirak": 251941,
+      "Lori": 235537,
+      "Armavir": 267277,
+      "Kotayk": 254397,
+      "Ararat": 260367,
+      "Syunik": 141771,
+      "Aragatsotn": 132925,
+      "Gegharkunik": 233000,
+      "Tavush": 128609,
+      "Vayots Dzor": 49157
     }
+  },
+  "Azerbaijan": {
+    "population": 10139177,
+    "states": {
+      "Baku": 2300500,
+      "Ganja": 335600,
+      "Sumqayit": 348300,
+      "Lankaran": 226900,
+      "Mingachevir": 106000,
+      "Shirvan": 87800,
+      "Nakhchivan": 95000,
+      "Shaki": 68800,
+      "Yevlakh": 67900,
+      "Barda": 40300
+    }
+  },
+  "Cyprus": {
+    "population": 1207359,
+    "states": {
+      "Nicosia": 341500,
+      "Limassol": 239700,
+      "Larnaca": 146300,
+      "Paphos": 91200,
+      "Famagusta": 47300
+    }
+  },
+  "Georgia": {
+    "population": 3989167,
+    "states": {
+      "Tbilisi": 1114600,
+      "Kutaisi": 147900,
+      "Batumi": 169300,
+      "Rustavi": 126800,
+      "Zugdidi": 105500,
+      "Gori": 48300,
+      "Poti": 41900,
+      "Samtredia": 27000,
+      "Khashuri": 26800,
+      "Senaki": 21600
+    }
+  },
+  "Kosovo": {
+    "population": 1873160,
+    "states": {
+      "Pristina": 204725,
+      "Prizren": 177781,
+      "Ferizaj": 108610,
+      "Peja": 96450,
+      "Gjakova": 94556,
+      "Gjilan": 90178,
+      "Mitrovica": 71909,
+      "Podujeva": 88499,
+      "Vushtrri": 69870,
+      "Suhareka": 59722
+    }
+  },
+  "Turkey": {
+    "population": 84339067,
+    "states": {
+      "Istanbul": 15462452,
+      "Ankara": 5639076,
+      "Izmir": 4367251,
+      "Bursa": 3056120,
+      "Antalya": 2511700,
+      "Adana": 2237940,
+      "Konya": 2232374,
+      "Gaziantep": 2069364,
+      "Sanliurfa": 2073614,
+      "Mersin": 1840425
+    }
+  }
+}
   }
 }
