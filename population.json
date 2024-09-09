@@ -365,9 +365,6 @@
   "Lithuania": {
     "population": 2722289,
     "states": {
-      "Lithuania": {
-    "population": 2722289,
-    "states": {
       "Vilnius County": 806308,
       "Kaunas County": 566244,
       "Klaipėda County": 320963,
@@ -782,7 +779,5 @@
       "Sanliurfa": 2073614,
       "Mersin": 1840425
     }
-  }
-}
   }
 }
